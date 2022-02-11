@@ -1,4 +1,4 @@
-# Got-git's Project One
+# Sprout Spy
 
 ## Table of contents
 * [General info](#general-info)
