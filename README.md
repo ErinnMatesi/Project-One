@@ -86,12 +86,12 @@ SOFTWARE.
 
 You can contact us using the following links below
 
-| Names                  | Profile                              |
-| --------------------   |:-----------------------------------: |
-| Samuli Jarvinen        | https://github.com/frye              | 
-| Andrew An              | https://github.com/AndyAn7           |
-| Erinn Matesi           | https://github.com/ErinnMatesi       |
-| KaterynaTekmenzhi      | https://github.com/KaterynaTekmenzhi |
-| Christopher Tidwell    | https://github.com/CLeeTidwell       |
+| Names                   | Profile                              |
+| --------------------    |:-----------------------------------: |
+| Samuli Jarvinen         | https://github.com/frye              | 
+| Andrew An               | https://github.com/AndyAn7           |
+| Erinn Matesi            | https://github.com/ErinnMatesi       |
+| Kateryna Tekmenzhi      | https://github.com/KaterynaTekmenzhi |
+| Christopher Tidwell     | https://github.com/CLeeTidwell       |
 
 
