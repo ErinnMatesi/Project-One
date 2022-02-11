@@ -49,8 +49,8 @@ This project is created with:
 * Openweathermaps API
 
 ## Screenshot
-![screenshot](./assets/images/localgarden.jpg)
 ![screenshot](./assets/images/weatherss.jpg)
+![screenshot](./assets/images/localgarden.jpg)
 
 ## Setup
 
@@ -62,7 +62,7 @@ Please visit https://andyan7.github.io/got-gitProjOne/ to see deployed code thro
 
 MIT License
 
-Copyright (c) [2022]
+Copyright (c) [2022] Sprout Spy
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
