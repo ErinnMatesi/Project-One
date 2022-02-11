@@ -51,9 +51,9 @@ This project is created with:
 
 ## Setup
 
-Please visit https://github.com/ErinnMatesi/Project-One/ to see the repo in Github
+Please visit https://github.com/ErinnMatesi/Sprout-Spy/ to see the repo in Github
 <br/>
-Please visit https://erinnmatesi.github.io/Project-One/ to see deployed code through Github Pages.
+Please visit https://erinnmatesi.github.io/Sprout-Spy/ to see deployed code through Github Pages.
 
 ## License
 
